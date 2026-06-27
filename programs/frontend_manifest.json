@@ -1,25 +1,25 @@
 {
   "version": 7,
-  "url": "https://prohor076.github.io/checker/programs/frontend_v7.enc",
+  "url": "programs/frontend_v7.enc",
   "frontends": [
     {
       "version": 4,
-      "url": "https://prohor076.github.io/checker/programs/frontend_v4.enc",
+      "url": "programs/frontend_v4.enc",
       "minApp": "1.2.0.0"
     },
     {
       "version": 5,
-      "url": "https://prohor076.github.io/checker/programs/frontend_v5.enc",
+      "url": "programs/frontend_v5.enc",
       "minApp": "1.2.0.0"
     },
     {
       "version": 6,
-      "url": "https://prohor076.github.io/checker/programs/frontend_v6.enc",
+      "url": "programs/frontend_v6.enc",
       "minApp": "1.2.0.0"
     },
     {
       "version": 7,
-      "url": "https://prohor076.github.io/checker/programs/frontend_v7.enc",
+      "url": "programs/frontend_v7.enc",
       "minApp": "1.2.0.1"
     }
   ]
