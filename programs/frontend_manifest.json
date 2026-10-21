@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "url": "programs/frontend_v7.enc",
+  "version": 8,
+  "url": "programs/frontend_v8.enc",
   "frontends": [
     {
       "version": 4,
@@ -20,6 +20,11 @@
     {
       "version": 7,
       "url": "programs/frontend_v7.enc",
+      "minApp": "1.2.0.1"
+    },
+    {
+      "version": 8,
+      "url": "programs/frontend_v8.enc",
       "minApp": "1.2.0.1"
     }
   ]
