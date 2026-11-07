@@ -1,6 +1,6 @@
 {
-  "version": 9,
-  "url": "programs/frontend_v9.enc",
+  "version": 10,
+  "url": "programs/frontend_v10.enc",
   "frontends": [
     {
       "version": 4,
@@ -30,6 +30,11 @@
     {
       "version": 9,
       "url": "programs/frontend_v9.enc",
+      "minApp": "1.2.0.2"
+    },
+    {
+      "version": 10,
+      "url": "programs/frontend_v10.enc",
       "minApp": "1.2.0.2"
     }
   ]
