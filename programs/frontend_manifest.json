@@ -1,6 +1,6 @@
 {
-  "version": 11,
-  "url": "programs/frontend_v11.enc",
+  "version": 12,
+  "url": "programs/frontend_v12.enc",
   "frontends": [
     {
       "version": 4,
@@ -40,6 +40,11 @@
     {
       "version": 11,
       "url": "programs/frontend_v11.enc",
+      "minApp": "1.2.0.2"
+    },
+    {
+      "version": 12,
+      "url": "programs/frontend_v12.enc",
       "minApp": "1.2.0.2"
     }
   ]
